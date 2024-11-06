@@ -15,7 +15,7 @@ Phone: +91 7892937490
 
 ### Programming Languages
 
-Java, Python, C, C++, Flutter, R, HTML/CSS, Unix, Reactvifgmuijcfg hycfg.0otcmnh,-vb0o ibn n
+Java, Python, C , Flutter, R, HTML/CSS, Unix, React, SQL , MongoDB ,Agular 
 
 ### Technical Skills
 
