@@ -2,6 +2,9 @@
 
 Dedicated and enthusiastic second-year Computer Science Engineering student specializing in machine learning, software development, and emerging technologies.
 
+![170976246](https://github.com/user-attachments/assets/6f7b8aa2-5a7a-456a-8a6a-54b9068a022a)
+
+
 ## Contact Information
 
 Email: sharanyamavinaguni@gmail.com
