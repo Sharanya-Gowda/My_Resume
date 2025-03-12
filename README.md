@@ -60,8 +60,12 @@ Completed PUC (12th grade)
 
 ## Hobbies
 
-##Performing Arts:## Passionate about acting and theater.
-Travel: Love discovering new places.
-Yoga: Embrace mindfulness and wellness practices.
-Dance: Trained in Bharatanatyam.
-This format applies bold styling to all headings, improving visibility in a GitHub README file.
+## Performing Arts:
+Passionate about acting and theater.
+## Travel: 
+Love discovering new places.
+## Yoga: 
+Embrace mindfulness and wellness practices.
+##Dance: 
+Trained in Bharatanatyam.
+
