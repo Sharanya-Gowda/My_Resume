@@ -60,12 +60,8 @@ Completed PUC (12th grade)
 
 ## Hobbies
 
-Performing Arts:
-Passionate about acting and theater.
-Travel: 
-Love discovering new places.
-Yoga: 
-Embrace mindfulness and wellness practices.
-Dance: 
-Trained in Bharatanatyam.
+Performing Arts:Passionate about acting and theater.
+Travel: Love discovering new places.
+Yoga: Embrace mindfulness and wellness practices.
+Dance: Trained in Bharatanatyam.
 
